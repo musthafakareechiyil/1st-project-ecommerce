@@ -76,3 +76,5 @@ gem 'devise'
 gem 'activeadmin'
 
 gem 'sassc'
+
+gem 'tailwindcss-rails'
